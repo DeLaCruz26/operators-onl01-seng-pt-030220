@@ -5,6 +5,7 @@ def unsafe?(speed)
     return
   else speed == 50
     return
+  end
 end
 
 
