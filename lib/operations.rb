@@ -1,5 +1,6 @@
 def unsafe?(speed)
-  if 
+  if spped > 60 
+    return 
 
 end
 
